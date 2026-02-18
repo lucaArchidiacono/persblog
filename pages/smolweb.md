@@ -18,5 +18,3 @@ No accounts. No tracking. No ads.
 ![smolweb screenshot 2](/assets/smolweb/screenshot-2.png)
 
 Powered by the [Kagi Small Web](https://kagi.com/smallweb) feed. A huge thank you to the Kagi team for building such a wonderful and neat little feature that makes projects like this possible.
-
-[Privacy](/smolweb/privacy/) | [Support](/smolweb/support/)

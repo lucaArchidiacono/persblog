@@ -5,6 +5,8 @@ title: Home
 
 archiluc's notes and thoughts
 
+Contact: [mail@archiluc.ch](mailto:mail@archiluc.ch)
+
 ## Pages
 
 <ul>
